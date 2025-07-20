@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Curated Classic & Philosophy Books</title>
+    <link>https://example.com</link>
+    <description>RSS feed with free versions of recommended classic and philosophical books</description>
+
+    <item>
+      <title>The Communist Manifesto - Karl Marx & Friedrich Engels</title>
+      <link>https://www.gutenberg.org/ebooks/61</link>
+      <description>Classic political pamphlet available at Project Gutenberg.</description>
+    </item>
+
+    <item>
+      <title>The Society of the Spectacle - Guy Debord</title>
+      <link>https://libcom.org/library/society-spectacle-guy-debord</link>
+      <description>Available at Libcom.org as free PDF and HTML.</description>
+    </item>
+
+    <item>
+      <title>The Art of War - Sun Tzu</title>
+      <link>https://www.gutenberg.org/ebooks/132</link>
+      <description>Classic military treatise at Project Gutenberg.</description>
+    </item>
+
+    <item>
+      <title>1984 - George Orwell</title>
+      <link>https://www.george-orwell.org/1984</link>
+      <description>Official Orwell website with the text available online.</description>
+    </item>
+
+    <item>
+      <title>Brave New World - Aldous Huxley</title>
+      <link>https://archive.org/details/BraveNewWorld_201303</link>
+      <description>Available as free scan on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>The Art of War - Sun Tzu</title>
+      <link>https://www.gutenberg.org/ebooks/132</link>
+      <description>Classic military treatise at Project Gutenberg.</description>
+    </item>
+
+    <item>
+      <title>Fahrenheit 451 - Ray Bradbury</title>
+      <link>https://archive.org/details/Fahrenheit_451_1953</link>
+      <description>Scan available on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>Man’s Search for Meaning - Viktor Frankl</title>
+      <link>https://archive.org/details/manssearchforme00fran</link>
+      <description>Scan on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>The Road - Cormac McCarthy</title>
+      <link>https://archive.org/details/TheRoadCormacMcCarthy</link>
+      <description>Scan on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>Antifragile - Nassim Nicholas Taleb</title>
+      <link>https://archive.org/details/antifragilethings00tale_0</link>
+      <description>Scan on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>Silent Spring - Rachel Carson</title>
+      <link>https://archive.org/details/SilentSpringRachelCarson</link>
+      <description>Scan available on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>The Wretched of the Earth - Frantz Fanon</title>
+      <link>https://archive.org/details/WretchedOfTheEarth</link>
+      <description>Scan on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>The Denial of Death - Ernest Becker</title>
+      <link>https://archive.org/details/TheDenialOfDeathErnestBecker</link>
+      <description>Scan on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>The Hero with a Thousand Faces - Joseph Campbell</title>
+      <link>https://archive.org/details/TheHeroWithAThousandFaces</link>
+      <description>Scan on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>The Tao of Physics - Fritjof Capra</title>
+      <link>https://archive.org/details/TaoOfPhysics</link>
+      <description>Scan on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>Manufacturing Consent - Noam Chomsky & Edward S. Herman</title>
+      <link>https://chomsky.info/manufacturingconsent/</link>
+      <description>Full text available online from Chomsky’s website.</description>
+    </item>
+
+    <item>
+      <title>Debt: The First 5000 Years - David Graeber</title>
+      <link>https://theanarchistlibrary.org/library/david-graeber-debt-the-first-5000-years</link>
+      <description>Available free on The Anarchist Library.</description>
+    </item>
+
+    <item>
+      <title>The Road to Serfdom - Friedrich Hayek</title>
+      <link>https://mises.org/library/road-serfdom-0</link>
+      <description>Available at Mises Institute website.</description>
+    </item>
+
+    <item>
+      <title>Rules for Radicals - Saul Alinsky</title>
+      <link>https://archive.org/details/RulesForRadicalsSaulAlinsky</link>
+      <description>Scan available on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>The Origins of Totalitarianism - Hannah Arendt</title>
+      <link>https://archive.org/details/originsoftotalit00aren</link>
+      <description>Scan available on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>Sapiens: A Brief History of Humankind - Yuval Noah Harari</title>
+      <link>https://archive.org/details/SapiensABriefHistoryOfHumankind</link>
+      <description>Unofficial scan on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>The Doors of Perception - Aldous Huxley</title>
+      <link>https://archive.org/details/TheDoorsOfPerception</link>
+      <description>Scan on Archive.org.</description>
+    </item>
+
+    <item>
+      <title>Antifragile - Nassim Nicholas Taleb</title>
+      <link>https://archive.org/details/antifragilethings00tale_0</link>
+      <description>Scan on Archive.org.</description>
+    </item>
+
+    <!-- More books can be added similarly -->
+
+  </channel>
+</rss>
