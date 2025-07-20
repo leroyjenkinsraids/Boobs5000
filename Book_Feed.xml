@@ -1,149 +1,243 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Curated Classic & Philosophy Books</title>
-    <link>https://example.com</link>
-    <description>RSS feed with free versions of recommended classic and philosophical books</description>
+    <title>Curated Book Feed</title>
+    <link>https://github.com/leroyjenkinsraids/Boobs5000</link>
+    <description>Self-hosted RSS feed of foundational and radical texts</description>
 
     <item>
-      <title>The Communist Manifesto - Karl Marx & Friedrich Engels</title>
-      <link>https://www.gutenberg.org/ebooks/61</link>
-      <description>Classic political pamphlet available at Project Gutenberg.</description>
+      <title>The Communist Manifesto</title>
+      <link>https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf</link>
+      <description>By Karl Marx & Friedrich Engels</description>
     </item>
 
     <item>
-      <title>The Society of the Spectacle - Guy Debord</title>
-      <link>https://libcom.org/library/society-spectacle-guy-debord</link>
-      <description>Available at Libcom.org as free PDF and HTML.</description>
+      <title>Industrial Society and Its Future</title>
+      <link>https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm</link>
+      <description>By Theodore Kaczynski (Unabomber Manifesto)</description>
     </item>
 
     <item>
-      <title>The Art of War - Sun Tzu</title>
+      <title>Society of the Spectacle</title>
+      <link>https://www.marxists.org/reference/archive/debord/society.htm</link>
+      <description>By Guy Debord</description>
+    </item>
+
+    <item>
+      <title>1984</title>
+      <link>https://www.george-orwell.org/1984/0.html</link>
+      <description>By George Orwell (HTML version)</description>
+    </item>
+
+    <item>
+      <title>Brave New World</title>
+      <link>https://www.idph.com.br/conteudos/ebooks/Brave_New_World.pdf</link>
+      <description>By Aldous Huxley</description>
+    </item>
+
+    <item>
+      <title>Antifragile</title>
+      <link>https://libgen.is/book/index.php?md5=3E19804C6A7238B8676974BEE70E3EF6</link>
+      <description>By Nassim Nicholas Taleb</description>
+    </item>
+
+    <item>
+      <title>Discipline and Punish</title>
+      <link>https://monoskop.org/images/9/92/Foucault_Michel_Discipline_and_Punish_The_Birth_of_the_Prison_1975_1995.pdf</link>
+      <description>By Michel Foucault</description>
+    </item>
+
+    <item>
+      <title>The Conquest of Bread</title>
+      <link>https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread.pdf</link>
+      <description>By Peter Kropotkin</description>
+    </item>
+
+    <item>
+      <title>Mutual Aid: A Factor of Evolution</title>
+      <link>https://theanarchistlibrary.org/library/petr-kropotkin-mutual-aid-a-factor-of-evolution.pdf</link>
+      <description>By Peter Kropotkin</description>
+    </item>
+
+    <item>
+      <title>Thus Spoke Zarathustra</title>
+      <link>https://www.gutenberg.org/ebooks/1998</link>
+      <description>By Friedrich Nietzsche</description>
+    </item>
+
+    <item>
+      <title>The Ego and Its Own</title>
+      <link>https://theanarchistlibrary.org/library/max-stirner-the-ego-and-its-own.pdf</link>
+      <description>By Max Stirner</description>
+    </item>
+
+    <item>
+      <title>The Sovereign Individual</title>
+      <link>https://libgen.is/book/index.php?md5=9B189A884FA3F345F82F7C6F29F9D4D6</link>
+      <description>By James Dale Davidson & William Rees-Mogg</description>
+    </item>
+
+    <item>
+      <title>The Book: On the Taboo Against Knowing Who You Are</title>
+      <link>https://libgen.is/book/index.php?md5=94A474B08DE10B9EF78A7F06624A4B0F</link>
+      <description>By Alan Watts</description>
+    </item>
+
+    <item>
+      <title>The Tao Te Ching</title>
+      <link>https://www.sacred-texts.com/tao/taote.htm</link>
+      <description>By Laozi</description>
+    </item>
+
+    <item>
+      <title>The Art of War</title>
       <link>https://www.gutenberg.org/ebooks/132</link>
-      <description>Classic military treatise at Project Gutenberg.</description>
+      <description>By Sun Tzu</description>
     </item>
 
     <item>
-      <title>1984 - George Orwell</title>
-      <link>https://www.george-orwell.org/1984</link>
-      <description>Official Orwell website with the text available online.</description>
+      <title>The Prince</title>
+      <link>https://www.gutenberg.org/ebooks/1232</link>
+      <description>By Niccolò Machiavelli</description>
     </item>
 
     <item>
-      <title>Brave New World - Aldous Huxley</title>
-      <link>https://archive.org/details/BraveNewWorld_201303</link>
-      <description>Available as free scan on Archive.org.</description>
+      <title>On Liberty</title>
+      <link>https://www.gutenberg.org/ebooks/34901</link>
+      <description>By John Stuart Mill</description>
     </item>
 
     <item>
-      <title>The Art of War - Sun Tzu</title>
-      <link>https://www.gutenberg.org/ebooks/132</link>
-      <description>Classic military treatise at Project Gutenberg.</description>
+      <title>The Social Contract</title>
+      <link>https://www.gutenberg.org/ebooks/46333</link>
+      <description>By Jean-Jacques Rousseau</description>
     </item>
 
     <item>
-      <title>Fahrenheit 451 - Ray Bradbury</title>
-      <link>https://archive.org/details/Fahrenheit_451_1953</link>
-      <description>Scan available on Archive.org.</description>
+      <title>Walden</title>
+      <link>https://www.gutenberg.org/ebooks/205</link>
+      <description>By Henry David Thoreau</description>
     </item>
 
     <item>
-      <title>Man’s Search for Meaning - Viktor Frankl</title>
-      <link>https://archive.org/details/manssearchforme00fran</link>
-      <description>Scan on Archive.org.</description>
+      <title>The Rebel</title>
+      <link>https://libgen.is/book/index.php?md5=9A9A43B46C81E14B9A466A92C3F9B38F</link>
+      <description>By Albert Camus</description>
     </item>
 
     <item>
-      <title>The Road - Cormac McCarthy</title>
-      <link>https://archive.org/details/TheRoadCormacMcCarthy</link>
-      <description>Scan on Archive.org.</description>
+      <title>The Myth of Sisyphus</title>
+      <link>https://libgen.is/book/index.php?md5=10B64D457A3406D4E79A16A41BB07E56</link>
+      <description>By Albert Camus</description>
     </item>
 
     <item>
-      <title>Antifragile - Nassim Nicholas Taleb</title>
-      <link>https://archive.org/details/antifragilethings00tale_0</link>
-      <description>Scan on Archive.org.</description>
+      <title>Meditations</title>
+      <link>https://www.gutenberg.org/ebooks/2680</link>
+      <description>By Marcus Aurelius</description>
     </item>
 
     <item>
-      <title>Silent Spring - Rachel Carson</title>
-      <link>https://archive.org/details/SilentSpringRachelCarson</link>
-      <description>Scan available on Archive.org.</description>
+      <title>Letters from a Stoic</title>
+      <link>https://libgen.is/book/index.php?md5=0BA4E9F45C1A7F2BA0F2217E1B5D5997</link>
+      <description>By Seneca</description>
     </item>
 
     <item>
-      <title>The Wretched of the Earth - Frantz Fanon</title>
-      <link>https://archive.org/details/WretchedOfTheEarth</link>
-      <description>Scan on Archive.org.</description>
+      <title>Beyond Good and Evil</title>
+      <link>https://www.gutenberg.org/ebooks/4363</link>
+      <description>By Friedrich Nietzsche</description>
     </item>
 
     <item>
-      <title>The Denial of Death - Ernest Becker</title>
-      <link>https://archive.org/details/TheDenialOfDeathErnestBecker</link>
-      <description>Scan on Archive.org.</description>
+      <title>Permanent Record</title>
+      <link>https://libgen.is/book/index.php?md5=74AA7F31D9F15C74D59D4E282AC24A13</link>
+      <description>By Edward Snowden</description>
     </item>
 
     <item>
-      <title>The Hero with a Thousand Faces - Joseph Campbell</title>
-      <link>https://archive.org/details/TheHeroWithAThousandFaces</link>
-      <description>Scan on Archive.org.</description>
+      <title>Critical Path</title>
+      <link>https://libgen.is/book/index.php?md5=A76B11530829CE7E59E3ED8182B3FBE8</link>
+      <description>By Buckminster Fuller</description>
     </item>
 
     <item>
-      <title>The Tao of Physics - Fritjof Capra</title>
-      <link>https://archive.org/details/TaoOfPhysics</link>
-      <description>Scan on Archive.org.</description>
+      <title>Confessions of an Economic Hitman</title>
+      <link>https://libgen.is/book/index.php?md5=FDCBC6AB4626B5B7DB2AC3E2B2B4A6D5</link>
+      <description>By John Perkins</description>
     </item>
 
     <item>
-      <title>Manufacturing Consent - Noam Chomsky & Edward S. Herman</title>
-      <link>https://chomsky.info/manufacturingconsent/</link>
-      <description>Full text available online from Chomsky’s website.</description>
+      <title>Rules for Radicals</title>
+      <link>https://libgen.is/book/index.php?md5=2AC55AB6227068A1A3C07FF8BBF2B812</link>
+      <description>By Saul Alinsky</description>
     </item>
 
     <item>
-      <title>Debt: The First 5000 Years - David Graeber</title>
-      <link>https://theanarchistlibrary.org/library/david-graeber-debt-the-first-5000-years</link>
-      <description>Available free on The Anarchist Library.</description>
+      <title>Debt: The First 5000 Years</title>
+      <link>https://libgen.is/book/index.php?md5=A5D4B7F3AB5BC77D6D33C81A14BD6EF4</link>
+      <description>By David Graeber</description>
     </item>
 
     <item>
-      <title>The Road to Serfdom - Friedrich Hayek</title>
-      <link>https://mises.org/library/road-serfdom-0</link>
-      <description>Available at Mises Institute website.</description>
+      <title>Down and Out in Paris and London</title>
+      <link>https://www.george-orwell.org/Down_and_Out_in_Paris_and_London/0.html</link>
+      <description>By George Orwell</description>
     </item>
 
     <item>
-      <title>Rules for Radicals - Saul Alinsky</title>
-      <link>https://archive.org/details/RulesForRadicalsSaulAlinsky</link>
-      <description>Scan available on Archive.org.</description>
+      <title>Homage to Catalonia</title>
+      <link>https://www.george-orwell.org/Homage_to_Catalonia/0.html</link>
+      <description>By George Orwell</description>
     </item>
 
     <item>
-      <title>The Origins of Totalitarianism - Hannah Arendt</title>
-      <link>https://archive.org/details/originsoftotalit00aren</link>
-      <description>Scan available on Archive.org.</description>
+      <title>War is a Racket</title>
+      <link>https://archive.org/details/WarIsARacket</link>
+      <description>By Major General Smedley D. Butler</description>
     </item>
 
     <item>
-      <title>Sapiens: A Brief History of Humankind - Yuval Noah Harari</title>
-      <link>https://archive.org/details/SapiensABriefHistoryOfHumankind</link>
-      <description>Unofficial scan on Archive.org.</description>
+      <title>The True Believer</title>
+      <link>https://libgen.is/book/index.php?md5=27999F1E3489AF7F97DC0E9D813DAAB3</link>
+      <description>By Eric Hoffer</description>
     </item>
 
     <item>
-      <title>The Doors of Perception - Aldous Huxley</title>
-      <link>https://archive.org/details/TheDoorsOfPerception</link>
-      <description>Scan on Archive.org.</description>
+      <title>Revolt Against the Modern World</title>
+      <link>https://libgen.is/book/index.php?md5=22E50334C0FC0E983ED3F417B16976EF</link>
+      <description>By Julius Evola</description>
     </item>
 
     <item>
-      <title>Antifragile - Nassim Nicholas Taleb</title>
-      <link>https://archive.org/details/antifragilethings00tale_0</link>
-      <description>Scan on Archive.org.</description>
+      <title>Behold a Pale Horse</title>
+      <link>https://archive.org/details/BeholdAPaleHorseByMiltonWilliamCooper_201601</link>
+      <description>By William Cooper</description>
     </item>
 
-    <!-- More books can be added similarly -->
+    <item>
+      <title>The Technological Society</title>
+      <link>https://libgen.is/book/index.php?md5=7F3F65D08F53A50C7D74DE99145F6E65</link>
+      <description>By Jacques Ellul</description>
+    </item>
+
+    <item>
+      <title>The Pentagon's Brain</title>
+      <link>https://libgen.is/book/index.php?md5=556F89F1F2A9C4C2D2A11B1D5045A21A</link>
+      <description>By Annie Jacobsen</description>
+    </item>
+
+    <item>
+      <title>Shock Doctrine</title>
+      <link>https://libgen.is/book/index.php?md5=CD9D30D8D7E5797A6D95834D60B28D08</link>
+      <description>By Naomi Klein</description>
+    </item>
+
+    <item>
+      <title>Surveillance Capitalism</title>
+      <link>https://libgen.is/book/index.php?md5=4F7EF0B1B17AF3A1452D10ED53A6D717</link>
+      <description>By Shoshana Zuboff</description>
+    </item>
 
   </channel>
 </rss>
